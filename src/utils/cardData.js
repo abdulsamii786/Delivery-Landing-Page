@@ -58,7 +58,7 @@ export const card2Data = [
   },
   {
     text: "“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt”",
-    imgUrl: "/public/assets/imgs/Vector copy.png",
+    imgUrl: "/public/assets/imgs/Vector-copy.png",
     width:"8px"
   },
 ];
