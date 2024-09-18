@@ -19,7 +19,7 @@ const Footer = ({ data }) => {
     <div className=" bg-blackClr py-20">
       <div className="flex justify-between w-[80%] mx-auto ">
         <div>
-          <img src="/public/assets/imgs/🍕.png" alt="" />
+          <img src="/assets/imgs/🍕.png" alt="" />
           <div className="flex gap-6 my-10 ">
             {buttons.map((items, index) => {
               return <Button2 key={index} data={items} />;

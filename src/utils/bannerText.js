@@ -2,7 +2,7 @@ export const bannerData = {
   mainHeading: "Your Favorite Food Delivery Partner",
   subHeading:
     "The food at your doorstep. Why starve when you have us. You hunger partner. Straight out of the oven to your doorstep.",
-  imgUrl: "/public/assets/imgs/undraw_delivery_truck_vt6p.svg",
+  imgUrl: "/assets/imgs/undraw_delivery_truck_vt6p.svg",
 };
 
 export const bannerTitle1 = {

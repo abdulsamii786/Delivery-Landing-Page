@@ -7,7 +7,7 @@ const Header = () => {
       <nav className="p-5 mx-auto flex justify-between items-center  md:w-full lg:w-[80%] ">
         <div>
           <h3>
-            <img src="/public/assets/imgs/pizza.png" alt="" />
+            <img src="/assets/imgs/pizza.png" alt="" />
           </h3>
         </div>
 
